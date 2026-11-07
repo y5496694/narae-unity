@@ -1,0 +1,24 @@
+{
+  "product": "나래 유니티",
+  "version": "0.2.0",
+  "analysis_tool": "REA 6.8.0",
+  "repository": "https://github.com/morluto/rea",
+  "managed_methods_inspected": 178,
+  "official_export_flow": [
+    "HumanExport.Validate",
+    "UnityEditor.BuildPipeline.BuildAssetBundles",
+    "AssetBundleParser.ParseAssetBundle"
+  ],
+  "independent_export": "Original scene serializer for the supported LAST GRIP example. It does not require or modify Unity Editor.",
+  "native_validation": {
+    "engine": "2017.4.13f1",
+    "data_sha256": "4d2251d60841512ab7ba817b16262d801cbc431f629c1c5858641c34e245e945",
+    "game_objects": 272,
+    "rigidbodies": 40,
+    "hinges": 40,
+    "missing_scripts": 0,
+    "physics_steps": 200,
+    "checkpoints": 4
+  },
+  "scope": "Native loading, scripts, physics and ground support were tested in an isolated runtime with game callbacks suppressed. Human playthrough and multiplayer remain unverified."
+}

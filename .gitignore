@@ -1,0 +1,16 @@
+dist/
+.build/
+**/bin/
+**/obj/
+**/Build/
+**/state/
+**/__pycache__/
+*.pyc
+*.user
+*.suo
+*.log
+*.dmp
+.env
+.env.*
+*.ulf
+*.alf

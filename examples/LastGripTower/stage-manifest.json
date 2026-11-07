@@ -1,0 +1,114 @@
+{
+  "title": "LAST GRIP",
+  "height_m": 72,
+  "stages": [
+    {
+      "number": 1,
+      "name": "Precision Steps",
+      "name_ko": "정밀 점프",
+      "height_m": 0,
+      "checkpoint": true,
+      "tip": "LOOK / JUMP / GRAB"
+    },
+    {
+      "number": 2,
+      "name": "Knife Edge",
+      "name_ko": "칼날 외나무다리",
+      "height_m": 6,
+      "checkpoint": false,
+      "tip": "SMALL STEPS. STEADY HANDS."
+    },
+    {
+      "number": 3,
+      "name": "Counterweight",
+      "name_ko": "시소 균형",
+      "height_m": 12,
+      "checkpoint": false,
+      "tip": "SHIFT YOUR WEIGHT"
+    },
+    {
+      "number": 4,
+      "name": "Carousel",
+      "name_ko": "회전 발판",
+      "height_m": 18,
+      "checkpoint": true,
+      "tip": "WAIT FOR THE ALIGNMENT"
+    },
+    {
+      "number": 5,
+      "name": "Hang Time",
+      "name_ko": "그네 도약",
+      "height_m": 24,
+      "checkpoint": false,
+      "tip": "BUILD MOMENTUM"
+    },
+    {
+      "number": 6,
+      "name": "Black Ice",
+      "name_ko": "빙판 경사",
+      "height_m": 30,
+      "checkpoint": false,
+      "tip": "BRAKE BEFORE THE EDGE"
+    },
+    {
+      "number": 7,
+      "name": "Loose Ends",
+      "name_ko": "흔들리는 널빤지",
+      "height_m": 36,
+      "checkpoint": true,
+      "tip": "LAND NEAR THE HINGE"
+    },
+    {
+      "number": 8,
+      "name": "Sidewinder",
+      "name_ko": "궤도 이동 발판",
+      "height_m": 42,
+      "checkpoint": false,
+      "tip": "RIDE IT. THEN COMMIT."
+    },
+    {
+      "number": 9,
+      "name": "Sweeper",
+      "name_ko": "회전 방해봉",
+      "height_m": 48,
+      "checkpoint": false,
+      "tip": "WATCH THE SWEEPER"
+    },
+    {
+      "number": 10,
+      "name": "Elevator Sync",
+      "name_ko": "회전 승강 발판",
+      "height_m": 54,
+      "checkpoint": true,
+      "tip": "CATCH THE HIGH POINT"
+    },
+    {
+      "number": 11,
+      "name": "Last Fingertip",
+      "name_ko": "매달리기 등반",
+      "height_m": 60,
+      "checkpoint": false,
+      "tip": "HANDS UP. DO NOT LET GO."
+    },
+    {
+      "number": 12,
+      "name": "Final Exam",
+      "name_ko": "기믹 종합시험",
+      "height_m": 66,
+      "checkpoint": false,
+      "tip": "EVERYTHING YOU LEARNED"
+    }
+  ],
+  "checkpoints_m": [
+    0,
+    18,
+    36,
+    54
+  ],
+  "moving_bodies": 35,
+  "runtime": "Only components from the installed official Human Workshop SDK",
+  "status": "Game files exported with independent serializer; native Unity2017 load and 200-step physics validation passed. Human playthrough and multiplayer unverified.",
+  "exported_physics_bodies": 40,
+  "exported_hinge_joints": 40,
+  "game_export_sha256": "4d2251d60841512ab7ba817b16262d801cbc431f629c1c5858641c34e245e945"
+}

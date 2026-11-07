@@ -1,0 +1,99 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "paths_are_individual_literal_arguments",
+      "passed": true
+    },
+    {
+      "name": "background_process_has_no_visible_window",
+      "passed": true
+    },
+    {
+      "name": "rejects_unsupported_action",
+      "passed": true
+    },
+    {
+      "name": "missing_wrapper_reports_failure",
+      "passed": true
+    },
+    {
+      "name": "missing_project_is_explained",
+      "passed": true
+    },
+    {
+      "name": "editorless_export_requires_independent_helper",
+      "passed": true
+    },
+    {
+      "name": "independent_export_does_not_require_editor_path",
+      "passed": true
+    },
+    {
+      "name": "unity_validation_still_requires_editor",
+      "passed": true
+    },
+    {
+      "name": "license_failure_preserves_exit_and_status",
+      "passed": true
+    },
+    {
+      "name": "korean_only_license_failure_is_detected",
+      "passed": true
+    },
+    {
+      "name": "stale_native_log_is_not_used_for_current_failure",
+      "passed": true
+    },
+    {
+      "name": "fresh_native_license_log_survives_console_encoding_loss",
+      "passed": true
+    },
+    {
+      "name": "historical_license_log_does_not_override_current_unrelated_failure",
+      "passed": true
+    },
+    {
+      "name": "historical_license_log_does_not_override_current_success",
+      "passed": true
+    },
+    {
+      "name": "old_export_files_do_not_count_as_current_export",
+      "passed": true
+    },
+    {
+      "name": "fresh_independent_bundle_hash_allows_unchanged_thumbnail",
+      "passed": true
+    },
+    {
+      "name": "independent_output_report_keeps_structural_and_gameplay_status_separate",
+      "passed": true
+    },
+    {
+      "name": "independent_export_rejects_data_hash_mismatch",
+      "passed": true
+    },
+    {
+      "name": "process_output_is_flushed",
+      "passed": true
+    },
+    {
+      "name": "cancellation_terminates_owned_process",
+      "passed": true
+    },
+    {
+      "name": "real_project_manifest_is_loaded",
+      "passed": true
+    },
+    {
+      "name": "hidden_form_preview_created_without_show",
+      "passed": true
+    },
+    {
+      "name": "hidden_preview_contains_rendered_controls",
+      "passed": true
+    }
+  ],
+  "preview": "app-preview.png",
+  "note": "Self-tests verify app behavior only. Unity export and gameplay are not claimed."
+}

@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "verification": "Offline structure checks only; Unity import, export and gameplay are unverified because the Editor has no active license.",
+  "game_objects": 267,
+  "physics_bodies": 35,
+  "hinge_joints": 24,
+  "checkpoints": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "net_scopes": 13,
+  "stock_component_types": [
+    "HumanAPI.BuiltinLevel",
+    "HumanAPI.Checkpoint",
+    "HumanAPI.FallTrigger",
+    "HumanAPI.LevelPassTrigger",
+    "HumanAPI.NodeGraph",
+    "HumanAPI.SoundLibrary",
+    "HumanAPI.SoundManager",
+    "Multiplayer.NetBody",
+    "Multiplayer.NetIdentity",
+    "Multiplayer.NetScene",
+    "Multiplayer.NetSceneManager",
+    "SignalSine",
+    "SignalTweenPosition"
+  ],
+  "asset_guids_indexed": 9410,
+  "errors": []
+}

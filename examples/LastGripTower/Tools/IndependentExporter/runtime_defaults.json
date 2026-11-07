@@ -1,0 +1,103 @@
+{
+  "HumanAPI.Level": {
+    "netHash": 57005,
+    "MaxHumanVelocity": 150.0,
+    "HasWeather": false
+  },
+  "HumanAPI.BuiltinLevel": {
+    "netHash": 57005,
+    "MaxHumanVelocity": 150.0,
+    "HasWeather": false,
+    "customCloudNearClipStart": 5.0,
+    "customCloudNearClipEnd": 10.0,
+    "customCloudFarClipStart": 150.0,
+    "customCloudFarClipEnd": 200.0
+  },
+  "Multiplayer.NetBody": {
+    "syncPosition": 2,
+    "syncRotation": 2,
+    "despawnHeight": -50.0,
+    "respawnHeight": 5.0,
+    "manageActive": true,
+    "posRange": 500.0,
+    "possmall": 4,
+    "poslarge": 8,
+    "posfull": 18,
+    "rotsmall": 4,
+    "rotlarge": 6,
+    "rotfull": 9,
+    "scrlTimeFactor": 15.0,
+    "mBadObjectNames": [
+      "MotorBoat",
+      "BigBoat"
+    ],
+    "isVisible": true
+  },
+  "Multiplayer.NetIdentity": {},
+  "Multiplayer.NetScope": {
+    "maxLagFrames": 2,
+    "worstCaseCached": -1
+  },
+  "Multiplayer.NetScene": {
+    "maxLagFrames": 2,
+    "worstCaseCached": -1
+  },
+  "Multiplayer.NetSceneManager": {},
+  "HumanAPI.LevelObject": {},
+  "HumanAPI.Checkpoint": {},
+  "HumanAPI.FallTrigger": {
+    "fallAchievement": true
+  },
+  "HumanAPI.LevelPassTrigger": {},
+  "HumanAPI.SoundManager": {},
+  "HumanAPI.SoundLibrary": {
+    "path": "Assets/Audio/Library"
+  },
+  "HumanAPI.Node": {
+    "nodeColour": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "pos": {
+      "x": 10.0,
+      "y": 10.0
+    }
+  },
+  "HumanAPI.NodeGraph": {
+    "nodeColour": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "pos": {
+      "x": 10.0,
+      "y": 10.0
+    },
+    "inputsPos": {
+      "x": 10.0,
+      "y": 10.0
+    },
+    "outputsPos": {
+      "x": 10.0,
+      "y": 10.0
+    },
+    "inputs": [],
+    "outputs": []
+  },
+  "SignalBase": {},
+  "SignalSine": {
+    "max": 1.0,
+    "period": 1.0
+  },
+  "SignalTweenBase": {
+    "isDiscrete": true,
+    "tweenTime": 0.20000000298023224
+  },
+  "SignalTweenPosition": {
+    "isDiscrete": true,
+    "tweenTime": 0.20000000298023224
+  }
+}
