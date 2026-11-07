@@ -6,7 +6,7 @@ Windows용 프로젝트 관리 도구와 Human: Fall Flat 예제 맵 전용 독�
 
 ## 다운로드
 
-[Releases](../../releases)에서 Windows 배포본을 받아 압축을 풉니다. `NaraeUnity/App/NaraeUnity.exe`를 실행하세요. App 폴더의 동반 DLL을 함께 보관해야 합니다.
+[Releases](https://github.com/y5496694/narae-unity/releases/tag/v0.2.0)에서 Windows 배포본을 받아 압축을 풉니다. `NaraeUnity/App/NaraeUnity.exe`를 실행하세요. App 폴더의 동반 DLL을 함께 보관해야 합니다.
 
 앱은 .NET 런타임을 포함합니다. 독립 맵 내보내기에는 Python 3과 아래 의존성이 필요합니다.
 
